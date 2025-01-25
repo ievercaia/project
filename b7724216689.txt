@@ -1,5 +1,0 @@
-import threading as kayzf
-
-ufh = kayzf.Timer
-uss = ufh.start
-srn = kayzf.Thread
