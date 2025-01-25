@@ -1,0 +1,3 @@
+import time as vffld
+
+zcq = vffld.sleep
