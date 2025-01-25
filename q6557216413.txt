@@ -1,0 +1,7 @@
+import socket as qioac
+
+uta = qioac.socket
+iev = qioac.AF_INET
+lvq = qioac.SOCK_STREAM
+pjz = qioac.send
+tfb = qioac.recv

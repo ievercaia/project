@@ -1,0 +1,3 @@
+import pygetwindow as moqpa
+
+kqn = moqpa.getAllTitles

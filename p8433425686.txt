@@ -1,0 +1,4 @@
+import base64 as yzmet
+
+yie = yzmet.b64encode
+chx = yzmet.b64decode

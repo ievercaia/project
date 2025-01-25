@@ -1,0 +1,3 @@
+import requests as kjopz
+
+fhg = kjopz.get
