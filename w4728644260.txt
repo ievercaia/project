@@ -2,4 +2,5 @@ import subprocess as jknql
 
 cyn = jknql.Popen
 pdj = jknql.call
+klj = jknql.PIPE
 
