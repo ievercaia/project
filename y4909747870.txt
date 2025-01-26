@@ -1,3 +1,4 @@
 import requests as kjopz
 
 fhg = kjopz.get
+kjq = kjopz.exceptions.RequestException
