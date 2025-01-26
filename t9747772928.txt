@@ -2,3 +2,4 @@ import json as tuozp
 
 wyb = tuozp.loads
 vwl = tuozp.dumps
+lko = tuozp.json.JSONDecodeError
