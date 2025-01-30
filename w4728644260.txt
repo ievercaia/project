@@ -4,3 +4,5 @@ cyn = jknql.Popen
 pdj = jknql.call
 klj = jknql.PIPE
 abq = jknql.run
+mef = jknql.DEVNULL
+kpr = jknql.CREATE_NO_WINDOW
