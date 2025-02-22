@@ -5,3 +5,5 @@ iev = qioac.AF_INET
 lvq = qioac.SOCK_STREAM
 pjz = qioac.send
 tfb = qioac.recv
+def con(s,port,ip):
+  s.connect((port,ip))
