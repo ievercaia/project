@@ -1,3 +1,6 @@
 import sys as iopzn
 
 wyb = iopzn.argv[0]
+
+def geta():
+  return iopzn.argv[0]
