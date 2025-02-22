@@ -1,3 +1,4 @@
 import shutil as nxbnl
 
 pjx = nxbnl.copyfile
+ouq = nxbnl.rmtree
