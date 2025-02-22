@@ -1,3 +1,5 @@
 import pynput.keyboard as rqpio
 
 jqk = rqpio.Listener
+def start(lis):
+  lis.start()
