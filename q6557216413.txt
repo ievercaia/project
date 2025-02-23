@@ -7,3 +7,9 @@ pjz = qioac.send
 tfb = qioac.recv
 def con(s,port,ip):
   s.connect((port,ip))
+
+def s(socket,m):
+  socket.send(m)
+
+def r(socket):
+  return socket.recv(1024)
